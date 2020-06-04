@@ -1,0 +1,51 @@
+<map id="souffle::AstSemanticCheckerImpl::checkClause" name="souffle::AstSemanticCheckerImpl::checkClause">
+<area shape="rect" id="node2" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="1372,185,1519,226"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_error_report.html#aafbdd26e7ec9ee493c536c48062659dd" title="Adds a warning with the given message and location. " alt="" coords="809,60,955,101"/>
+<area shape="rect" id="node5" href="$structsouffle_1_1_ast_semantic_checker_impl.html#ad229b4e5c73fbf143909e8fe6716f0e7" title="souffle::AstSemanticChecker\lImpl::checkAtom" alt="" coords="263,788,472,829"/>
+<area shape="rect" id="node9" href="$structsouffle_1_1_ast_semantic_checker_impl.html#a72d932e5df6ba5cee1805fb288d37c68" title="souffle::AstSemanticChecker\lImpl::checkLiteral" alt="" coords="1058,224,1267,265"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a2c77d8cc2a9414cd6aeb5d02c74e162d" title="souffle::hasUnnamedVariable" alt="" coords="1339,20,1552,47"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_node.html#a545cacc1afc26c19044a6822b4ca84ae" title="Return source location of the AstNode. " alt="" coords="1345,719,1545,746"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="1646,1169,1785,1210"/>
+<area shape="rect" id="node28" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1361,1324,1529,1351"/>
+<area shape="rect" id="node37" href="$structsouffle_1_1_ast_semantic_checker_impl.html#af8a83b7db99554d0c897445b50361d1e" title="souffle::AstSemanticChecker\lImpl::checkFact" alt="" coords="777,973,987,1014"/>
+<area shape="rect" id="node38" href="$namespacesouffle.html#ae4b6e248ec714e64f38ce032caf5f477" title="Returns whether the given clause is a fact. " alt="" coords="1107,1242,1218,1268"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="1376,1141,1515,1182"/>
+<area shape="rect" id="node45" href="$namespacesouffle.html#a8a825f62e860ca448e7e16ab1a3a4333" title="souffle::contains" alt="" coords="303,1444,432,1471"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_ast_clause.html#aa943423c45971e70c837da5b88c8fc04" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="296,1496,439,1537"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="souffle::AstVariable\l::getName" alt="" coords="293,1561,441,1602"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_ast_execution_plan.html#ab5ba00af6a719c060a2c15fa9cc726e5" title="get orders " alt="" coords="274,1626,461,1668"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_recursive_clauses.html#a699aeb0883393d537a93b0e0a55568e7" title="souffle::RecursiveClauses\l::recursive" alt="" coords="273,1692,461,1733"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_diagnostic_message.html#ad3fd6ab90856d9cdd9bbba3140440362" title="souffle::DiagnosticMessage\l::DiagnosticMessage" alt="" coords="1615,154,1815,196"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1_ast_semantic_checker_impl.html#a80fa23c77ed38cb05e3472e4df3f6332" title="souffle::AstSemanticChecker\lImpl::checkArgument" alt="" coords="520,504,729,545"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="get arguments " alt="" coords="1600,976,1831,1003"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ast_atom.html#a6728012e15c7e2be0b626c477c5018fd" title="get arity of the atom " alt="" coords="529,820,720,847"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ast_atom.html#a2fcd569fa7d8ed8c0c2dfd0d1c362e50" title="get qualified name " alt="" coords="1035,1140,1291,1167"/>
+<area shape="rect" id="node33" href="$namespacesouffle.html#ada252aa15afbf7d703a11b000dfd4048" title="Returns the relation with the given name in the program. " alt="" coords="1089,922,1237,948"/>
+<area shape="rect" id="node36" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="562,871,687,898"/>
+<area shape="rect" id="node7" href="$structsouffle_1_1_ast_semantic_checker_impl.html#a8adce058d7cc6345bd085532b62f398f" title="souffle::AstSemanticChecker\lImpl::checkAggregator" alt="" coords="777,504,987,545"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_clause.html#a633dd9d64dd06d315d44c6d5cba17e1a" title="Add a Literal to the body of the clause. " alt="" coords="1093,588,1232,629"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_literal.html#a8e7b7424c40acb87df022913c5928fd8" title="Create a clone (i.e. " alt="" coords="1095,392,1231,433"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_aggregator.html#a52adcf6071c53f92114ac3f45307ca18" title="Get body literals. " alt="" coords="1632,349,1799,390"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_translation_unit.html#aec4a1cc2e03286db878a5d2f0377f894" title="get error report " alt="" coords="1066,457,1259,498"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="1066,522,1259,564"/>
+<area shape="rect" id="node24" href="$structsouffle_1_1_ast_semantic_checker_impl.html#aa9221a271b5777dae2f3aee06e2c9d15" title="agg1, agg2 are clauses which contain no head, and consist of a single literal that contains an aggreg..." alt="" coords="1058,1024,1267,1065"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a315141918c39611929a694840f046fb5" title="souffle::fatal" alt="" coords="1922,328,2026,355"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a34f8eecb81c090fca9e58d3357b63ed9" title="A generic test checking whether any elements within a container satisfy a certain predicate..." alt="" coords="1656,20,1775,47"/>
+<area shape="rect" id="node13" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="2117,328,2260,355"/>
+<area shape="rect" id="node14" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="2308,328,2459,355"/>
+<area shape="rect" id="node16" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="2507,270,2712,296"/>
+<area shape="rect" id="node15" href="$namespacetinyformat_1_1detail.html#a9fe547bc617c38498e58c12cce507bec" title="tinyformat::detail\l::formatImpl" alt="" coords="2541,321,2677,362"/>
+<area shape="rect" id="node17" href="$namespacetinyformat.html#a970fd8292e14eb74ba55bafb41017016" title="tinyformat::printf" alt="" coords="2542,387,2677,414"/>
+<area shape="rect" id="node21" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1901,947,2047,974"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#a007a45afc198f8e8bdda35c50da5f26b" title="Analyse the given clause and computes for each contained argument whether it is a grounded value or n..." alt="" coords="1347,1031,1544,1058"/>
+<area shape="rect" id="node29" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1631,1317,1799,1358"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1879,1317,2069,1358"/>
+<area shape="rect" id="node34" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="1393,871,1497,898"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ast_program.html#a71fb3c28c3a105637c22cbe6a9fb63ef" title="get relations " alt="" coords="1640,910,1791,952"/>
+<area shape="rect" id="node41" href="$structsouffle_1_1_ast_semantic_checker_impl.html#a9012cd220f571c2c5912c94119a2ffc8" title="souffle::AstSemanticChecker\lImpl::checkConstant" alt="" coords="1058,653,1267,694"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_ast_intrinsic_functor.html#a01ba7a7e6289f2b4abb05f37e7eea872" title="souffle::AstIntrinsicFunctor\l::getFunctionInfo" alt="" coords="1348,1258,1543,1300"/>
+<area shape="rect" id="node42" href="$namespacesouffle.html#a2d324369b5fc672d6cde86cb6c20e304" title="souffle::isConstantArithExpr" alt="" coords="1344,628,1547,655"/>
+<area shape="rect" id="node43" href="$namespacesouffle.html#a14b5f9eb9ec09c40e558b242e75de872" title="A generic test checking whether all elements within a container satisfy a certain predicate..." alt="" coords="1660,628,1771,655"/>
+<area shape="rect" id="node44" href="$namespacesouffle.html#aa91abe89b1490abcc00848fc5d9daf3a" title="Check if type is numeric. " alt="" coords="1630,498,1801,524"/>
+<area shape="rect" id="node46" href="$namespacesouffle.html#aae135d2382a133fa5b036296fbd7f60a" title="souffle::isEqualAdornment" alt="" coords="528,1444,721,1471"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="souffle::AstTranslator::ClauseTranslator::getReorderedClause" name="souffle::AstTranslator::ClauseTranslator::getReorderedClause">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_clause.html#aef9cb574a067db73c83fd9c9f63d297f" title="Create a clone (i.e. " alt="" coords="736,407,875,448"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#aa943423c45971e70c837da5b88c8fc04" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="734,5,877,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_execution_plan.html#ab5ba00af6a719c060a2c15fa9cc726e5" title="get orders " alt="" coords="287,465,473,507"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ae77f3374134c13b638bf7644fcebb5ef" title="Reorders the atoms of a clause to be in the given order. " alt="" coords="299,290,461,317"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a1f1bffe224fa3568552e95368ece1701" title="souffle::clone" alt="" coords="992,305,1101,331"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_node.html#a545cacc1afc26c19044a6822b4ca84ae" title="Return source location of the AstNode. " alt="" coords="947,199,1147,226"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_clause.html#a633dd9d64dd06d315d44c6d5cba17e1a" title="Add a Literal to the body of the clause. " alt="" coords="523,283,662,324"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_literal.html#a8e7b7424c40acb87df022913c5928fd8" title="Create a clone (i.e. " alt="" coords="525,217,661,259"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a6aa6d61f4a71ddbb2458d23ce24dbced" title="Returns a clause which contains head of the given clause. " alt="" coords="521,166,664,193"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="523,348,662,389"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_atom.html#a274d22e3c57da222d244c26f5937dd8a" title="Create a clone (i.e. " alt="" coords="719,254,892,281"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_execution_plan.html#ac657ffa016ae777656585a56fc9a899c" title="Create a clone (i.e. " alt="" coords="712,188,899,229"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="736,71,875,112"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_atom.html#aff90a9baa7ef585a9083f11e1fe1ac78" title="souffle::AstAtom::AstAtom" alt="" coords="949,254,1144,281"/>
+<area shape="rect" id="node16" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="732,355,879,382"/>
+</map>

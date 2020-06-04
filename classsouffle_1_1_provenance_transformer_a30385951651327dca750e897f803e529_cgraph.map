@@ -1,0 +1,51 @@
+<map id="souffle::ProvenanceTransformer::transform" name="souffle::ProvenanceTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="884,1361,1047,1387"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_provenance_transformer.html#aaaadafd085b93a595a86ecd1f885e77a" title="souffle::ProvenanceTransformer\l::transformMaxHeight" alt="" coords="281,983,509,1024"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_provenance_transformer.html#a532de551f3b7942905b7b706c19f7e5f" title="souffle::ProvenanceTransformer\l::transformSubtreeHeights" alt="" coords="281,1067,509,1108"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="869,436,1062,477"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a2e1142a31f92b96107d9603e86b13bdb" title="Transform eqrel relations to explicitly define equivalence relations. " alt="" coords="561,261,785,287"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#a4d9e53888640a9abfd7ea7c43715152a" title="Returns a vector of clauses in the program describing the relation with the given name..." alt="" coords="892,1091,1039,1118"/>
+<area shape="rect" id="node16" href="$namespacesouffle.html#ae4b6e248ec714e64f38ce032caf5f477" title="Returns whether the given clause is a fact. " alt="" coords="910,1193,1021,1219"/>
+<area shape="rect" id="node23" href="$namespacesouffle.html#a97c74d6a5819e15d68eded0c4e9ff9d5" title="souffle::makeInfoRelation" alt="" coords="579,779,768,806"/>
+<area shape="rect" id="node43" href="$namespacesouffle.html#ac4f78efaeb4338f70e2dcab6bd0638d2" title="Returns the index of a clause within its relation, ignoring facts. " alt="" coords="588,1041,759,1067"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_atom.html#aa4eb252e809d6d4cd009389010d72ea4" title="add argument to the atom " alt="" coords="852,319,1079,346"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_program.html#a36a9cf206241d64c1dabe532026fc3ae" title="add a clause " alt="" coords="890,371,1041,412"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_relation.html#a54bd8f26d113f3141d49e926a030b52d" title="Return the arity of this relation. " alt="" coords="891,5,1039,47"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_relation.html#a5db8b505969c2f75286a54875c4aaed1" title="get qualified relation name " alt="" coords="891,71,1039,112"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_relation.html#ad2025f014882934287fbf5bf05a9ced7" title="Get relation representation. " alt="" coords="891,136,1040,177"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="914,202,1017,229"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_relation.html#a74fee05e2281fd21dac19a2df839af21" title="Set relation representation. " alt="" coords="891,253,1039,295"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_program.html#aa04b430e385f40c6fe2bf7ad2ca31bb3" title="get clauses " alt="" coords="1181,937,1332,979"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1431,1010,1577,1037"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="1187,1068,1326,1109"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_intrinsic_functor.html#a01ba7a7e6289f2b4abb05f37e7eea872" title="souffle::AstIntrinsicFunctor\l::getFunctionInfo" alt="" coords="1159,1185,1354,1227"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="1187,1003,1326,1044"/>
+<area shape="rect" id="node20" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1173,1134,1341,1161"/>
+<area shape="rect" id="node21" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1420,1127,1588,1168"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1643,1127,1834,1168"/>
+<area shape="rect" id="node24" href="$namespacesouffle.html#a315141918c39611929a694840f046fb5" title="souffle::fatal" alt="" coords="913,1041,1017,1067"/>
+<area shape="rect" id="node25" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="1185,729,1328,755"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="get arguments " alt="" coords="1141,862,1372,889"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ast_atom.html#a2fcd569fa7d8ed8c0c2dfd0d1c362e50" title="get qualified name " alt="" coords="837,990,1093,1017"/>
+<area shape="rect" id="node37" href="$namespacesouffle.html#a3c6cb3ac93eb86027865121aff551fde" title="Helper functions. " alt="" coords="1165,590,1349,617"/>
+<area shape="rect" id="node38" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="916,721,1015,747"/>
+<area shape="rect" id="node39" href="$namespacesouffle.html#ac74ef3c3ffaad63c158bcd0ff2feecb2" title="souffle::makeRelationName" alt="" coords="864,502,1067,529"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ast_clause.html#a915e72889d139b62ba0c5b2d8993fbe6" title="Set the head of clause to h. " alt="" coords="896,772,1035,813"/>
+<area shape="rect" id="node42" href="$namespacesouffle.html#a10525539360588d9c9048cb27f80d6ea" title="Converts operator to its symbolic representation. " alt="" coords="867,553,1063,595"/>
+<area shape="rect" id="node26" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1429,729,1579,755"/>
+<area shape="rect" id="node32" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="1636,779,1841,806"/>
+<area shape="rect" id="node27" href="$namespacetinyformat_1_1detail.html#a9fe547bc617c38498e58c12cce507bec" title="tinyformat::detail\l::formatImpl" alt="" coords="1671,713,1807,755"/>
+<area shape="rect" id="node33" href="$namespacetinyformat.html#a970fd8292e14eb74ba55bafb41017016" title="tinyformat::printf" alt="" coords="1671,830,1806,857"/>
+<area shape="rect" id="node34" href="$namespacetinyformat.html#a97775445fea05ffaaa0690ab3bb1a920" title="tinyformat::printfln" alt="" coords="1666,662,1811,689"/>
+<area shape="rect" id="node28" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1891,648,2076,689"/>
+<area shape="rect" id="node29" href="$namespacetinyformat_1_1detail.html#ab4493739cbfe66bc79867f13f1fdf0db" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1889,713,2077,755"/>
+<area shape="rect" id="node31" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1908,779,2059,820"/>
+<area shape="rect" id="node30" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="2125,713,2289,755"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_ast_qualified_name.html#a130718ec933b0f1d7be08c78d6def6a8" title="append qualifiers " alt="" coords="1161,495,1353,536"/>
+<area shape="rect" id="node44" href="$namespacesouffle.html#ada252aa15afbf7d703a11b000dfd4048" title="Returns the relation with the given name in the program. " alt="" coords="891,1243,1039,1270"/>
+<area shape="rect" id="node45" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="1205,1317,1309,1343"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_ast_program.html#a71fb3c28c3a105637c22cbe6a9fb63ef" title="get relations " alt="" coords="1181,1251,1332,1292"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="577,1295,770,1336"/>
+<area shape="rect" id="node50" href="$namespacesouffle.html#a67fd524841b8a60b1bb50b18dc868c7c" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="557,1193,789,1219"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="886,1295,1045,1336"/>
+</map>

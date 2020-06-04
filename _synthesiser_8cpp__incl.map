@@ -1,0 +1,31 @@
+<map id="Synthesiser.cpp" name="Synthesiser.cpp">
+<area shape="rect" id="node2" href="$_synthesiser_8h.html" title="Synthesiser.h" alt="" coords="5503,528,5612,555"/>
+<area shape="rect" id="node4" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="1117,677,1219,704"/>
+<area shape="rect" id="node17" href="$_aggregate_op_8h.html" title="AggregateOp.h" alt="" coords="1817,603,1935,629"/>
+<area shape="rect" id="node18" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="1795,677,1923,704"/>
+<area shape="rect" id="node19" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1446,752,1549,779"/>
+<area shape="rect" id="node23" href="$_binary_constraint_ops_8h.html" title="BinaryConstraintOps.h" alt="" coords="1117,603,1285,629"/>
+<area shape="rect" id="node24" href="$_functor_ops_8h.html" title="FunctorOps.h" alt="" coords="2061,603,2168,629"/>
+<area shape="rect" id="node25" href="$_global_8h.html" title="Global.h" alt="" coords="3718,603,3794,629"/>
+<area shape="rect" id="node26" href="$_ram_condition_8h.html" title="RamCondition.h" alt="" coords="2693,453,2819,480"/>
+<area shape="rect" id="node27" href="$_ram_expression_8h.html" title="RamExpression.h" alt="" coords="2229,528,2363,555"/>
+<area shape="rect" id="node28" href="$_ram_node_8h.html" title="RamNode.h" alt="" coords="2933,603,3032,629"/>
+<area shape="rect" id="node32" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="3056,603,3203,629"/>
+<area shape="rect" id="node33" href="$_ram_relation_8h.html" title="RamRelation.h" alt="" coords="3908,528,4025,555"/>
+<area shape="rect" id="node34" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="2648,603,2757,629"/>
+<area shape="rect" id="node35" href="$_ram_index_analysis_8h.html" title="RamIndexAnalysis.h" alt="" coords="5069,603,5224,629"/>
+<area shape="rect" id="node38" href="$_ram_operation_8h.html" title="RamOperation.h" alt="" coords="3123,304,3251,331"/>
+<area shape="rect" id="node39" href="$_ram_utils_8h.html" title="RamUtils.h" alt="" coords="2269,379,2363,405"/>
+<area shape="rect" id="node41" href="$_ram_program_8h.html" title="RamProgram.h" alt="" coords="4267,155,4386,181"/>
+<area shape="rect" id="node42" href="$_ram_statement_8h.html" title="RamStatement.h" alt="" coords="3503,229,3635,256"/>
+<area shape="rect" id="node43" href="$_string_util_8h.html" title="utility/StringUtil.h" alt="" coords="651,603,789,629"/>
+<area shape="rect" id="node45" href="$_ram_translation_unit_8h.html" title="RamTranslationUnit.h" alt="" coords="4869,80,5032,107"/>
+<area shape="rect" id="node46" href="$_symbol_table_8h.html" title="SymbolTable.h" alt="" coords="1371,528,1488,555"/>
+<area shape="rect" id="node47" href="$_ram_visitor_8h.html" title="RamVisitor.h" alt="" coords="2577,80,2682,107"/>
+<area shape="rect" id="node48" href="$_synthesiser_relation_8h.html" title="SynthesiserRelation.h" alt="" coords="5073,453,5236,480"/>
+<area shape="rect" id="node49" href="$json11_8h.html" title="json11.h" alt="" coords="4563,603,4640,629"/>
+<area shape="rect" id="node50" href="$_file_util_8h.html" title="utility/FileUtil.h" alt="" coords="1446,677,1567,704"/>
+<area shape="rect" id="node3" href="$_record_table_8h.html" title="RecordTable.h" alt="" coords="4427,603,4539,629"/>
+<area shape="rect" id="node31" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="3429,603,3592,629"/>
+<area shape="rect" id="node36" href="$_ram_analysis_8h.html" title="RamAnalysis.h" alt="" coords="1866,752,1985,779"/>
+</map>

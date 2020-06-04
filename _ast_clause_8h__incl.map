@@ -1,0 +1,13 @@
+<map id="AstClause.h" name="AstClause.h">
+<area shape="rect" id="node2" href="$_ast_abstract_8h.html" title="AstAbstract.h" alt="" coords="487,155,596,181"/>
+<area shape="rect" id="node3" href="$_ast_node_8h.html" title="AstNode.h" alt="" coords="518,229,607,256"/>
+<area shape="rect" id="node4" href="$_src_location_8h.html" title="SrcLocation.h" alt="" coords="93,304,203,331"/>
+<area shape="rect" id="node8" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="1247,304,1409,331"/>
+<area shape="rect" id="node20" href="$_ast_literal_8h.html" title="AstLiteral.h" alt="" coords="997,80,1093,107"/>
+<area shape="rect" id="node22" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="1025,304,1172,331"/>
+<area shape="rect" id="node30" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="1836,229,1964,256"/>
+<area shape="rect" id="node21" href="$_ast_qualified_name_8h.html" title="AstQualifiedName.h" alt="" coords="1139,229,1291,256"/>
+<area shape="rect" id="node24" href="$_binary_constraint_ops_8h.html" title="BinaryConstraintOps.h" alt="" coords="1343,155,1511,181"/>
+<area shape="rect" id="node25" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="1737,304,1839,331"/>
+<area shape="rect" id="node31" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2197,304,2299,331"/>
+</map>

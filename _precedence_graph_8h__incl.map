@@ -1,0 +1,15 @@
+<map id="PrecedenceGraph.h" name="PrecedenceGraph.h">
+<area shape="rect" id="node2" href="$_ast_analysis_8h.html" title="AstAnalysis.h" alt="" coords="398,304,509,331"/>
+<area shape="rect" id="node6" href="$_ast_i_o_type_analysis_8h.html" title="AstIOTypeAnalysis.h" alt="" coords="296,229,451,256"/>
+<area shape="rect" id="node9" href="$_ast_qualified_name_8h.html" title="AstQualifiedName.h" alt="" coords="1503,229,1655,256"/>
+<area shape="rect" id="node17" href="$_ast_relation_8h.html" title="AstRelation.h" alt="" coords="1474,80,1582,107"/>
+<area shape="rect" id="node33" href="$_graph_utils_8h.html" title="GraphUtils.h" alt="" coords="585,304,687,331"/>
+<area shape="rect" id="node10" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="1392,304,1539,331"/>
+<area shape="rect" id="node18" href="$_ast_attribute_8h.html" title="AstAttribute.h" alt="" coords="1055,155,1167,181"/>
+<area shape="rect" id="node19" href="$_ast_node_8h.html" title="AstNode.h" alt="" coords="1310,229,1399,256"/>
+<area shape="rect" id="node20" href="$_src_location_8h.html" title="SrcLocation.h" alt="" coords="955,304,1064,331"/>
+<area shape="rect" id="node21" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="1664,304,1827,331"/>
+<area shape="rect" id="node26" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="1565,155,1675,181"/>
+<area shape="rect" id="node27" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="2113,229,2241,256"/>
+<area shape="rect" id="node28" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2691,304,2794,331"/>
+</map>

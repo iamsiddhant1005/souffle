@@ -1,0 +1,8 @@
+<map id="souffle::ast_visitor_tag" name="souffle::ast_visitor_tag">
+<area shape="rect" id="node2" href="$structsouffle_1_1_ast_visitor.html" title="{souffle::AstVisitor\l\&lt; void \&gt;\n||+ operator()()\l+ visit()\l+ ~AstVisitor()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# visitNode()\l}" alt="" coords="287,131,424,472"/>
+<area shape="rect" id="node7" href="$structsouffle_1_1_ast_visitor.html" title="The generic base type of all AstVisitors realizing the dispatching of visitor calls. " alt="" coords="448,131,585,472"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_constraint_analysis.html" title="{souffle::AstConstraintAnalysis\l\&lt; TypeVar \&gt;\n|# assignment\l# constraints\l# variables\l|+ analyse()\l+ collectConstraints()\l# addConstraint()\l# getVar()\l# getVar()\l}" alt="" coords="5,520,223,700"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_constraint_analysis.html" title="A base class for AstConstraintAnalysis collecting constraints for an analysis by visiting every node ..." alt="" coords="247,520,464,700"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1detail_1_1_lambda_ast_visitor.html" title="A specialized visitor wrapping a lambda function – an auxiliary type required for visitor convenienc..." alt="" coords="489,557,681,663"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_type_constraints_analysis.html" title="Constraint analysis framework for types. " alt="" coords="11,748,217,1060"/>
+</map>
